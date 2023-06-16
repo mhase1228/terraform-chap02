@@ -12,4 +12,3 @@ provider "aws" {
   profile = "default" # default以外のprofileを利用する場合には、この部分を変更
   region = "ap-northeast-1"
 }
-
